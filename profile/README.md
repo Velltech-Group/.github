@@ -10,7 +10,10 @@ We are VellTech Group, a dynamic consortium of innovative companies dedicated to
 
 - **VellTech Digital:** Boosting online presence and driving digital growth through tailored digital marketing strategies.
 
-- **VellTech Book Club:** Fostering intellectual exploration and community engagement through thought-provoking literary discussions.
+- **Velltech Bookie BookClub:** Fostering intellectual exploration and community engagement through thought-provoking literary discussions.
+
+- **VellTech DevShop:** Empowering businesses with custom software solutions and development services.
+
 
 ## Repository Contents
 
